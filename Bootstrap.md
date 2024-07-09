@@ -1,4 +1,4 @@
-### 简介
+# 简介
 
 Bootstrap协议（BOOTP，Bootstrap Protocol）是一种早期的网络协议，用于在启动时为计算机和其他设备自动分配IP地址及其他网络配置信息。以下是Bootstrap协议的一些详细解释：
 
