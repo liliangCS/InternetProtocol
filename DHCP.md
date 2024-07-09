@@ -1,4 +1,4 @@
-### 简介
+# 简介
 
 DHCP（Dynamic Host Configuration Protocol，动态主机配置协议）是一种用于自动分配IP地址和其他网络配置参数的网络协议，帮助设备快速、方便地连接到网络。以下是对DHCP协议的详细解释：
 
