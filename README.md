@@ -3,3 +3,8 @@
 ### TCP/IP四层网络模型
 
 ![17500ece218b4d8ead7b2d31a76662a3](https://github.com/liliangCS/InternetProcol/assets/85006433/d8f890c4-cb37-4b13-bd67-f98d45f731d7)
+
+### OSI七层网络模型
+
+![image](https://github.com/liliangCS/InternetProcol/assets/85006433/a841bb2d-afd8-4655-99d0-76995853b77a)
+
