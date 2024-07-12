@@ -28,4 +28,8 @@
 - 最大传输单元
 - ......
 
+### IP数据报格式
+
+![image](https://github.com/user-attachments/assets/f45006ae-754b-43d8-85f3-5f5cccd9a7aa)
+
 
