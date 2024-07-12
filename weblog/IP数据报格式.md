@@ -6,7 +6,7 @@ IP（Internet Protocol，互联网协议）数据报格式定义了数据包在�
 
 IPv4数据报由一个固定长度的报头和可变长度的数据部分组成。IPv4报头最小长度为20字节，包含多个字段，每个字段都有特定的功能。以下是IPv4数据报格式的详细介绍：
 
-[](https://github.com/liliangCS/InternetProtocol/edit/main/weblog/image/tu_1.png)
+![tu_1](https://github.com/liliangCS/InternetProtocol/edit/main/weblog/image/tu_1.png)
 
 字段解释：
 - 版本（Version，4位）：指示IP协议的版本。对于IPv4，值为4。
