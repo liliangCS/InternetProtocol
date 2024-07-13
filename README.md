@@ -1,7 +1,7 @@
  # 笔记
 
 01. [IP数据报格式](https://github.com/liliangCS/InternetProtocol/blob/main/weblog/IP%E6%95%B0%E6%8D%AE%E6%8A%A5%E6%A0%BC%E5%BC%8F.md)
-02. [TCP数据报格式](https://github.com/liliangCS/InternetProtocol/blob/main/weblog/TCP%E6%95%B0%E6%8D%AE%E6%8A%A5%E6%A0%BC%E5%BC%8F.md)
+02. [TCP数据段格式](https://github.com/liliangCS/InternetProtocol/blob/main/weblog/TCP%E6%95%B0%E6%8D%AE%E6%AE%B5%E6%A0%BC%E5%BC%8F.md)
 
 
 # TCP/IP协议簇
