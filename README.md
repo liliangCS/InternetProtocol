@@ -33,7 +33,7 @@
 
 ![image](https://github.com/user-attachments/assets/f45006ae-754b-43d8-85f3-5f5cccd9a7aa)
 
-### TCP数据报格式
+### TCP数据段格式
 
 ![image](https://github.com/user-attachments/assets/85c2b0a7-7fff-4a2b-89af-08c3bd2d72f8)
 
